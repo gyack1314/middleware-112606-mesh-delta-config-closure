@@ -1,0 +1,4 @@
+{"at":0,"kind":"proxy","record":{"name":"p","epoch":1,"listeners":["launch"],"have":[]}}
+{"at":1,"kind":"resource","record":{"name":"launch","rev":1,"kind":"listener","refs":[["route",1]]}}
+{"at":1,"kind":"resource","record":{"name":"route","rev":1,"kind":"route","refs":[["launch",1]]}}
+{"at":2,"kind":"inspect","record":{"proxy":"p"}}

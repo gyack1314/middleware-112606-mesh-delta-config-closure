@@ -1,0 +1,13 @@
+[
+  "ack",
+  "activate",
+  "closed",
+  "disconnect",
+  "inspect",
+  "opened",
+  "proxy",
+  "remove",
+  "resource",
+  "restart",
+  "send"
+]
